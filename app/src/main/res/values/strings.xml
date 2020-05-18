@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DogFinder</string>
+    <string name="welcome">Select sub-breed ... </string>
+    <string name="show_button">Show breeds </string>
+</resources>

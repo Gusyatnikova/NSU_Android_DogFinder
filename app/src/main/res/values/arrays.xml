@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breads">
+        <item>Bulldog</item>
+        <item>Bullterrier</item>
+        <item>Collie</item>
+        <item>Corgi</item>
+        <item>Hound</item>
+        <item>Husky</item>
+        <item>Mastiff</item>
+        <item>Mountain</item>
+        <item>Pointer</item>
+        <item>Poodle</item>
+        <item>Retriever</item>
+        <item>Schnauzer</item>
+        <item>Setter</item>
+        <item>Sheepdog</item>
+        <item>Spaniel</item>
+        <item>Terrier</item>
+    </string-array>
+</resources>
